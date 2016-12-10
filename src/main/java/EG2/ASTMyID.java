@@ -27,7 +27,7 @@
  */
 package EG2;
 
-import EG1.SimpleNode;
+import EG2.SimpleNode;
 
 /**
  * An ID.
